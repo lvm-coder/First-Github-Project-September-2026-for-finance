@@ -47,14 +47,9 @@ The project calculates:
 6. Visualize the results
 7. Present the final results in an Excel dashboard
 
-## Main Files
+## Main Files/Findings
 
 - `python/analysis_notebook.ipynb` — full analysis
-- `python/01_download_data.py` — downloads data
-- `python/02_clean_and_calculate.py` — calculates financial metrics
-- `python/03_build_database.py` — creates the SQLite database
-- `python/04_sql_analysis.py` — runs SQL queries
-- `sql/analysis_queries.sql` — SQL queries
 - `excel/financial_analysis_dashboard.xlsx` — Excel dashboard
 
 ## Key Limitations
